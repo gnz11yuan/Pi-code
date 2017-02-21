@@ -1,2 +1,4 @@
 # Pi-code
-Pi code decryption
+Pi code decoder
+
+Source: http://dellsystem.me/posts/pi-code
